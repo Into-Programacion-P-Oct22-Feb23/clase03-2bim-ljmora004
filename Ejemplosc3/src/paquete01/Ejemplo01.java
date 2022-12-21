@@ -22,6 +22,9 @@ public class Ejemplo01 {
         
         // forma 2
         int[][] arreglo2 = {{10, 20, 30}, {100, 200, 300}};
+        // cadena
+        String [][] arregloCadena = {{"Luis", "Carlos", "Ana"}, 
+            {"Pedro", "Maria", "Marco"}};
         
         // forma 3
         int[][] arreglo3 = new int[3][];
